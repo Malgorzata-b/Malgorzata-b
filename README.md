@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Malgorzata</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-- 🔭 I’m currently working on **My Portfolio and Gutendex React-prosjekt**
+- 🌱 I’m currently learning ** React to improve my web development skills and gain more practical experience in building dynamic, interactive websites.**
 
-- 🌱 I’m currently learning **React to improve my web development skills.**
+- 👯 I’m looking to collaborate on **on web development projects, particularly those focused on frontend development using React, HTML, CSS, and JavaScript. I’m excited to contribute to real-world projects and gain valuable hands-on experience.**
 
-- 👯 I’m looking to collaborate on **web development projects.**
-
-- 🤝 I’m looking for help with **improving my website’s performance in the Gutendex React-project.**
+- 🤝 I’m looking for help with **help with gaining practical experience in a professional environment, particularly in frontend development or data analysis. I’m eager to learn from experienced professionals and contribute to meaningful projects.**
 
 
 
